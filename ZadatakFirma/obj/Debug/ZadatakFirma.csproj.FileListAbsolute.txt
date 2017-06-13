@@ -1,0 +1,6 @@
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\bin\Debug\ZadatakFirma.exe.config
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\bin\Debug\ZadatakFirma.exe
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\bin\Debug\ZadatakFirma.pdb
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\obj\Debug\ZadatakFirma.csprojResolveAssemblyReference.cache
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\obj\Debug\ZadatakFirma.exe
+c:\users\stojanovic\documents\visual studio 2017\Projects\ZadatakFirma\ZadatakFirma\obj\Debug\ZadatakFirma.pdb
